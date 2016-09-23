@@ -13,3 +13,4 @@
 		</c:forEach>
 	</tbody>
 </table>
+     <!-- this added -->
